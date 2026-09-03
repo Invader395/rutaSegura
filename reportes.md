@@ -1,5 +1,6 @@
 # RutaSegura
 
+
 ## Introducción
 Bienvenidos a RutaSegura, reportes viales comunitarios.
 
