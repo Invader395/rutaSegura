@@ -1,6 +1,5 @@
 # RutaSegura
 
-
 ## Introducción
 RutaSegura te da la bienvenida: reporta, y todos llegan mejor
 
